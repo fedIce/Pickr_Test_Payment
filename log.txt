@@ -1,0 +1,16 @@
+2022-04-04 23:30:11.435083 : payment of 26000.68, from user with email studyagency.tr@gmail.com initiated 
+2022-04-04 23:30:12.148560 : payment of 26000.68, from user with email studyagency.tr@gmail.com successful 
+2022-04-04 23:38:06.064703 : payment of 18900.29, from user with email studyagency.tr@gmail.com initiated 
+2022-04-04 23:38:06.845307 : payment of 18900.29, from user with email studyagency.tr@gmail.com successful 
+2022-04-04 23:43:09.937694 : payment of 63801.26, from user with email studyagency.tr@gmail.com initiated 
+2022-04-04 23:43:13.741453 : payment of 63801.26, from user with email studyagency.tr@gmail.com successful 
+2022-04-04 23:45:24.435429 : payment of 26000.68, from user with email studyagency.tr@gmail.com initiated 
+2022-04-04 23:45:25.073029 : payment of 26000.68, from user with email studyagency.tr@gmail.com successful 
+2022-04-04 23:58:00.058581 : payment of 26000.68, from user with email studyagency.tr@gmail.com initiated 
+2022-04-04 23:58:00.978215 : payment of 26000.68, from user with email studyagency.tr@gmail.com successful 
+2022-04-05 00:12:50.055846 : payment of 37800.58, from user with email studyagency.tr@gmail.com initiated 
+2022-04-05 00:12:50.841346 : payment of 37800.58, from user with email studyagency.tr@gmail.com successful 
+2022-04-06 16:08:03.408742 : payment of 60000.68, from user with email studyagency.tr@gmail.com initiated 
+2022-04-06 16:08:04.664752 : payment of 60000.68, from user with email studyagency.tr@gmail.com successful 
+2022-05-02 18:39:07.358132 : payment of 68602.66, from user with email studyagency.tr@gmail.com initiated 
+2022-05-02 18:39:08.323268 : payment of 68602.66, from user with email studyagency.tr@gmail.com successful 
